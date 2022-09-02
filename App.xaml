@@ -1,0 +1,10 @@
+﻿<Application x:Class="TheatrePlayMusicController.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:TheatrePlayMusicController"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <!--Got help from https://stackoverflow.com/questions/6453640/how-to-include-external-font-in-wpf-application-without-installing-it-->
+        <FontFamily x:Key="Inter">Resources/Fonts/#Inter Light</FontFamily>
+    </Application.Resources>
+</Application>

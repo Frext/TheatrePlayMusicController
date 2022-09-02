@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "RMEiWvzz4oTGOl1v0hhN469sdDgSgqc+Do06d2as6BQdt6E8nGyKaqnCLCGGrTuz2T616fzZoEubOKWRVOKdQg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\furka\\source\\repos\\TheatrePlayMusicController\\TheatrePlayMusicController.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\furka\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\furka\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\5.0.15\\microsoft.netcore.app.runtime.win-x64.5.0.15.nupkg.sha512",
+    "C:\\Users\\furka\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\5.0.15\\microsoft.windowsdesktop.app.runtime.win-x64.5.0.15.nupkg.sha512",
+    "C:\\Users\\furka\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\5.0.15\\microsoft.aspnetcore.app.runtime.win-x64.5.0.15.nupkg.sha512",
+    "C:\\Users\\furka\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

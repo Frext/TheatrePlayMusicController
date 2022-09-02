@@ -1,0 +1,2 @@
+C:\Users\furka\source\repos\TheatrePlayMusicController\bin\Debug\net5.0-windows\win-x64\publish\TheatrePlayMusicController.pdb
+C:\Users\furka\source\repos\TheatrePlayMusicController\bin\Debug\net5.0-windows\win-x64\publish\TheatrePlayMusicController.exe

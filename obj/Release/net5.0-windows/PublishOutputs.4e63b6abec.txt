@@ -1,0 +1,8 @@
+C:\Users\furka\Desktop\S\Resources\Songs\CarelessWhisper.mp3
+C:\Users\furka\Desktop\S\Resources\Songs\PhoneRingtone.mp3
+C:\Users\furka\Desktop\S\Resources\Songs\BarMusic.m4a
+C:\Users\furka\Desktop\S\TheatrePlayMusicController.exe
+C:\Users\furka\Desktop\S\TheatrePlayMusicController.dll
+C:\Users\furka\Desktop\S\TheatrePlayMusicController.deps.json
+C:\Users\furka\Desktop\S\TheatrePlayMusicController.runtimeconfig.json
+C:\Users\furka\Desktop\S\TheatrePlayMusicController.pdb

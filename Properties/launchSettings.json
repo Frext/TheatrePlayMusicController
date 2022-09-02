@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TheatrePlayMusicController": {
+      "commandName": "Project",
+      "remoteDebugEnabled": false,
+      "authenticationMode": "None",
+      "nativeDebugging": false
+    }
+  }
+}

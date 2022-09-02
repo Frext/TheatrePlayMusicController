@@ -1,0 +1,14 @@
+C:\Users\furka\Desktop\A\TheatrePlayMusicController.pdb
+C:\Users\furka\Desktop\A\Resources\Songs\CarelessWhisper.mp3
+C:\Users\furka\Desktop\A\Resources\Songs\PhoneRingtone.mp3
+C:\Users\furka\Desktop\A\Resources\Songs\BarMusic.m4a
+C:\Users\furka\Desktop\A\clrcompression.dll
+C:\Users\furka\Desktop\A\clrjit.dll
+C:\Users\furka\Desktop\A\coreclr.dll
+C:\Users\furka\Desktop\A\mscordaccore.dll
+C:\Users\furka\Desktop\A\D3DCompiler_47_cor3.dll
+C:\Users\furka\Desktop\A\PenImc_cor3.dll
+C:\Users\furka\Desktop\A\PresentationNative_cor3.dll
+C:\Users\furka\Desktop\A\vcruntime140_cor3.dll
+C:\Users\furka\Desktop\A\wpfgfx_cor3.dll
+C:\Users\furka\Desktop\A\TheatrePlayMusicController.exe

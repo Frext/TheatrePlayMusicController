@@ -1,0 +1,50 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+	<IncludeAllContentForSelfExtract>true</IncludeAllContentForSelfExtract>
+	<PublishTrimmed>true</PublishTrimmed>
+	<ApplicationIcon />
+	<StartupObject>TheatrePlayMusicController.App</StartupObject>
+	<Nullable>disable</Nullable>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <PlatformTarget>x64</PlatformTarget>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Resources\Fonts\Inter-Light.ttf" />
+    <None Remove="Resources\Images\freddy.png" />
+  </ItemGroup>
+  
+
+  <ItemGroup>
+    <Content Include="Resources\Images\freddy.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Songs\CarelessWhisper.mp3">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Songs\PhoneRingtone.mp3">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+	 <Content Include="Resources\Songs\BarMusic.m4a">
+	<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	 </Content>
+  </ItemGroup>
+  
+
+  <ItemGroup>
+    <Content Include="Resources\Fonts\Inter-Light.ttf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+</Project>
