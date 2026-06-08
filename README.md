@@ -18,9 +18,13 @@ This application was originally created for a theatre play organized by a collab
 
 ## 📸 Screenshots
 
-| Standard Layout | Active Playback | Reset Safety Prompt |
-|:---:|:---:|:---:|
-| <img src="https://github.com/user-attachments/assets/9072ee2a-f5fe-4f99-b5fa-2690bf0c8842" width="300" alt="Standard Layout"/> | <img src="https://github.com/user-attachments/assets/e55ed250-4e47-4f58-bdf4-bd2efab86620" width="300" alt="Active Playback"/> | <img src="https://github.com/user-attachments/assets/c1040479-f3da-45db-95ca-830088eeda23" width="300" alt="Safety Prompt"/> |
+| Standard Layout | Active Playback |
+|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/9072ee2a-f5fe-4f99-b5fa-2690bf0c8842" width="300" alt="Standard Layout"/> | <img src="https://github.com/user-attachments/assets/e55ed250-4e47-4f58-bdf4-bd2efab86620" width="300" alt="Active Playback"/> |
+
+| Reset Safety Prompt |
+|:---:|
+|  <img src="https://github.com/user-attachments/assets/c1040479-f3da-45db-95ca-830088eeda23" width="300" alt="Safety Prompt"/> |
 
 ---
 
